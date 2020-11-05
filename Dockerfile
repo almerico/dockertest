@@ -1,2 +1,2 @@
 FROM ubuntu
-CMD [ "echo", "TESTq" ]
+CMD [ "echo", "TEST11111" ]
